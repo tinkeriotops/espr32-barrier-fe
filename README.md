@@ -33,7 +33,7 @@ You can preview the public deployment here:
 Clone the repo:
 
 ```bash
-git clone https://github.com/tinkeriotops/esp32-barrier-fe.git
+git clone [https://github.com/tinkeriotops/esp32-barrier-fe.git](https://github.com/tinkeriotops/tinkeriotops.github.io.git)
 cd esp32-barrier-fe
 npm install
 ```
@@ -61,7 +61,7 @@ Make sure the following is configured in `vite.config.ts`:
 
 ```ts
 export default defineConfig({
-  base: "/esp32-barrier-fe/",
+  base: "/",
   build: {
     outDir: "docs"
   },
