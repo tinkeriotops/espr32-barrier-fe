@@ -13,7 +13,7 @@ The system enables residents to generate guest PINs, and allows guests to unlock
 ## Live Demo
 
 You can preview the public deployment here:  
-[https://tinkeriotops.github.io/esp32-barrier-fe](https://tinkeriotops.github.io/esp32-barrier-fe)
+[https://tinkeriotops.github.io](https://tinkeriotops.github.io)
 
 ---
 
